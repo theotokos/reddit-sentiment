@@ -1,0 +1,9 @@
+[submodule "rs-data"]
+	path = rs-data
+	url = https://gitlab.com/reddit-mining/rs-data.git
+[submodule "rs-front"]
+	path = rs-front
+	url = https://gitlab.com/reddit-mining/rs-front.git
+[submodule "rs-back"]
+	path = rs-back
+	url = https://gitlab.com/reddit-mining/rs-back.git
