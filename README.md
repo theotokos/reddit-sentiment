@@ -49,3 +49,9 @@ In order to get app credentials you need to create one [here](https://www.reddit
 After this you're good to go. Application is not packaged for production use, so it does feel clunky to run.
 
 `rs-data` module is ran calling `core.py`. Either run as `./core.py` or call `python3 core.py`. `rs-back` is easily packaged by maven, so just look for the `backend-0.0.1-SNAPSHOT.jar` jar in /target. The angular front end uses angular cli, so you can just call the `ng serve` command for a quick test.
+
+-----
+
+### Attributions
+
+Webapp gitlab group icon: https://goo.gl/4QRJmh
