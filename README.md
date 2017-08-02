@@ -9,9 +9,9 @@ Reddit sentiment is a simple webapp that displays the latest threads from [reddi
 
 The project is structured in three different modules. `rs-data`, `rs-back` and `rs-front`. There is more detail in each project's README.
 
-* [rs-data](https://gitlab.com/reddit-mining/rs-data) fetches the frontpage using an oauth handshake and stores the data in MongoDB after processing it with VADER's utilities.
-* [rs-back](https://gitlab.com/reddit-mining/rs-back) simple spring boot that exposes a REST endpoint with the necessary data.
-* [rs-front](https://gitlab.com/reddit-mining/rs-front) angular project that consumes data from rs-back.
+* [rs-data](https://gitlab.com/reddit-mining/reddit-sentiment/rs-data) fetches the frontpage using an oauth handshake and stores the data in MongoDB after processing it with VADER's utilities.
+* [rs-back](https://gitlab.com/reddit-mining/reddit-sentiment/rs-back) simple spring boot that exposes a REST endpoint with the necessary data.
+* [rs-front](https://gitlab.com/reddit-mining/reddit-sentiment/rs-front) angular project that consumes data from rs-back.
 
 
 # Running the application
