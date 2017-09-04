@@ -21,6 +21,7 @@ The project is structured in three different modules. `rs-data`, `rs-back` and `
 - `node >= 6.11`
 - `java SDK >= 1.8`, `maven >= 3.3`
 - `python >= 3.5`, `pip`
+- `MongoDB >= 3.4` or compatible mongoDB instance
 
 ### Installation
 
